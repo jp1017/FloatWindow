@@ -1,7 +1,6 @@
 package com.example.yhao.floatwindow;
 
 import android.app.Application;
-import android.os.Build;
 import android.util.Log;
 import android.view.View;
 import android.view.animation.BounceInterpolator;

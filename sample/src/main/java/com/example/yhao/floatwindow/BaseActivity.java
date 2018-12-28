@@ -1,11 +1,9 @@
 package com.example.yhao.floatwindow;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
-import com.example.yhao.fixedfloatwindow.R;
-
-public class BaseActivity extends AppCompatActivity {
+public class BaseActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
